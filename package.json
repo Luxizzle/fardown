@@ -1,6 +1,6 @@
 {
   "name": "fardown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple cli torrent client",
   "main": "index.js",
   "repository": "Luxizzle/fardown",
