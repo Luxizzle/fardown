@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple cli torrent client",
   "main": "index.js",
+  "repository": "Luxizzle/fardown",
   "scripts": {
     "test": "ava"
   },
