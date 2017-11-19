@@ -1,0 +1,23 @@
+{
+  "name": "fardown",
+  "version": "0.0.1",
+  "description": "Simple cli torrent client",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "bin": {
+    "fardown": "cli.js"
+  },
+  "author": "Lux Pandora (Jelmer)",
+  "license": "MIT",
+  "dependencies": {
+    "neat-log": "^1.1.2",
+    "prettier-bytes": "^1.0.4",
+    "progress-string": "^1.2.2",
+    "torrent-stream": "github:Luxizzle/torrent-stream"
+  },
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
